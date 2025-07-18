@@ -1,0 +1,1 @@
+Designed an FPGA-based ticket booking system using Verilog and FSM. It handles real-time booking, cancellation, and seat display. Simulated in ModelSim and tested on hardware with debounced inputs. Overcame timing issues by refining FSM and collaborating with peers for debugging.
